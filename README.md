@@ -1,27 +1,19 @@
-# Portfolio
+# Nicolai's Portfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
+Welcome to my portfolio! This repository showcases my projects and provides an overview of my skills, experience, and interests in the world of software development.
 
-## Development server
+## About Me
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+I am a passionate software developer with a focus on backend development. I have experience in JavaScript, Typescript, C#, Java and much more, and I am committed to creating high-quality software solutions.
 
-## Code scaffolding
+You can learn more about me on my website: [NSHansen.com](https://nshansen.com/).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Contact
 
-## Build
+I'm always open to new opportunities and collaborations. If you have any questions, suggestions, or just want to connect, you can reach me through the following channels:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Email: nicolai@valoks.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nicolai-hansen-332004276/)
+- Discord username: 4free
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Feel free to explore my projects, and thank you for visiting my portfolio!
